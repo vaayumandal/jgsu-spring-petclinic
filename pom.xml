@@ -16,7 +16,7 @@
 
   <properties>
 
-    <maven.test.skip>true</maven.test.skip>
+    <!--maven.test.skip>true</maven.test.skip-->
 
     <!-- Generic properties -->
     <java.version>1.8</java.version>
